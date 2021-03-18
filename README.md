@@ -1,2 +1,2 @@
 
-tornice cat
+tornice oct
