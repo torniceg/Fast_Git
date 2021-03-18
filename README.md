@@ -2,4 +2,4 @@
 tornice oct
 
 add function
-function is good
+function is good and bad
